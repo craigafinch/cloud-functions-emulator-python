@@ -2,7 +2,7 @@
 from flask import Flask
 from flask import request
 
-from main import my_function
+from example import my_function
 
 app = Flask(__name__)
 
